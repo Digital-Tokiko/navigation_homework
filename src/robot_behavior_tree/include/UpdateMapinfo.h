@@ -1,0 +1,13 @@
+//
+// Created by mizu on 2026/6/8.
+//
+
+#ifndef NAVIGATION_HOMEWORK_UPDATEMAPINFO_H
+#define NAVIGATION_HOMEWORK_UPDATEMAPINFO_H
+
+
+class UpdateMapinfo {
+};
+
+
+#endif //NAVIGATION_HOMEWORK_UPDATEMAPINFO_H

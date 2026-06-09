@@ -1,0 +1,13 @@
+//
+// Created by mizu on 2026/6/8.
+//
+
+#ifndef NAVIGATION_HOMEWORK_NAVVELREMAP_H
+#define NAVIGATION_HOMEWORK_NAVVELREMAP_H
+
+
+class NavVelRemap {
+};
+
+
+#endif //NAVIGATION_HOMEWORK_NAVVELREMAP_H
