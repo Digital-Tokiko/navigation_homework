@@ -1,0 +1,13 @@
+//
+// Created by mizu on 2026/6/9.
+//
+
+#ifndef NAVIGATION_HOMEWORK_IFGAMESTART_H
+#define NAVIGATION_HOMEWORK_IFGAMESTART_H
+
+
+class IfGameStart {
+};
+
+
+#endif //NAVIGATION_HOMEWORK_IFGAMESTART_H
