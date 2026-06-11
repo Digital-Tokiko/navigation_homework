@@ -1,0 +1,13 @@
+//
+// Created by mizu on 2026/6/10.
+//
+
+#ifndef NAVIGATION_HOMEWORK_GOALSENDER_H
+#define NAVIGATION_HOMEWORK_GOALSENDER_H
+
+
+class GoalSender {
+};
+
+
+#endif //NAVIGATION_HOMEWORK_GOALSENDER_H
