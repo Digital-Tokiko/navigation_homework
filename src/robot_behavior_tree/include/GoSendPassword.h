@@ -1,0 +1,13 @@
+//
+// Created by mizu on 2026/6/16.
+//
+
+#ifndef NAVIGATION_HOMEWORK_GOSENDPASSWORD_H
+#define NAVIGATION_HOMEWORK_GOSENDPASSWORD_H
+
+
+class GoSendPassword {
+};
+
+
+#endif //NAVIGATION_HOMEWORK_GOSENDPASSWORD_H
